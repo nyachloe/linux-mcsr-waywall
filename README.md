@@ -3,7 +3,7 @@
 
 # Getting Started
 - The instructions start from the very basics and explain each step verbosely. Feel free to skip some steps if you know what you are doing.
-- You can get started right [here](https://sathya-pramodh.github.io/linux-mcsr).
+- You can get started right [here](https://its-saanvi.github.io/linux-mcsr).
 
 # Thanks
 - [Boyenn](https://twitch.tv/lazy_boyenn) for giving me the idea to make this guide.
@@ -13,4 +13,4 @@
 - All contributors and authors of all the docs or websites that this guide references.
 
 # License
-The documentation was all written under GNU GPLv3. You can check the license [here](https://github.com/sathya-pramodh/linux-mcsr/blob/main/LICENSE).
+The documentation was all written under GNU GPLv3. You can check the license [here](https://github.com/its-saanvi/linux-mcsr/blob/main/LICENSE).

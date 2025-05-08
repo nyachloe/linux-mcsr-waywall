@@ -2,7 +2,7 @@
 
 Setting up boat eye on Linux is not as easy as it is on Windows. You might see some super weird behaviour while using it just because X11 handles mouse movement much different than Windows.
 
-Make sure to follow instructions as closely as possible but if you do get any errors, make sure to post an issue [here](https://github.com/sathya-pramodh/linux-mcsr/issues) and I'll try and fix/debug the issue as far as possible.
+Make sure to follow instructions as closely as possible but if you do get any errors, make sure to post an issue [here](https://github.com/its-saanvi/linux-mcsr/issues) and I'll try and fix/debug the issue as far as possible.
 
 The instructions given below will guide you through the procedure to setup boat eye on Linux.
 
@@ -30,7 +30,7 @@ i3 is a WM that has been tested a lot and it works very well with Fedora and all
 
 - First of all, install `xinput` from your distribution's packages. It is required for setting cursor speeds in X11.
 - Refer to [Priffin's calculator](https://www.desmos.com/calculator/uld5u8glky) to figure out the proper boat eye cursor speed, DPI and sensitivity and setup any Minecraft related setup as explained [here](https://youtu.be/G5XNCcgv4qE).
-  ![image](https://github.com/sathya-pramodh/linux-mcsr/assets/94102031/08041a38-7909-495f-b90f-b453b14152ce)
+  ![image](https://github.com/its-saanvi/linux-mcsr/assets/94102031/08041a38-7909-495f-b90f-b453b14152ce)
 - To convert your cursor speeds to the appropriate multipliers (refer to the EPP off column here), use the table above.
 - Set the DPI to the DPI that you took from the calculator in your mouse configuration application.
 - Figure out the correct device ID for your mouse by running `xinput` in a terminal and analyzing the output.
@@ -107,7 +107,7 @@ else:
 
 - Setting the polling rate to a lower value is nicer just because having a higher polling rate somehow affects how X11 behaves in response to specific cursor speeds.
 - Open your mouse configuration GUI and search for the tab that configures the polling rate of your mouse. Make sure to set it to a low value (such as 250Hz).
-- This is not a de-facto standard for all cursor speeds and it doesn't fix the issue for all mice. So if you have any issues please report it [here](https://github.com/sathya-pramodh/linux-mcsr/issues).
+- This is not a de-facto standard for all cursor speeds and it doesn't fix the issue for all mice. So if you have any issues please report it [here](https://github.com/its-saanvi/linux-mcsr/issues).
 
 # Finishing Up
 

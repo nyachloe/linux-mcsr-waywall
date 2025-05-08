@@ -5,7 +5,7 @@ The following chapters will guide you through the post installation procedure of
 # Software Manager
 
 - The software manager is the best place for you to search and install packages and apps.
-- If you cannot find any package on it for some reason, Googling about it is your best friend. If Google doesn't have an answer for it too, then you can open an issue in [here](https://github.com/sathya-pramodh/linux-mcsr/issues/).
+- If you cannot find any package on it for some reason, Googling about it is your best friend. If Google doesn't have an answer for it too, then you can open an issue in [here](https://github.com/its-saanvi/linux-mcsr/issues/).
 
 # Update Cycle
 

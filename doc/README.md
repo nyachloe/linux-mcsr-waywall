@@ -9,4 +9,4 @@
 
 # License
 
-The documentation was all written under GNU GPLv3. You can check the license [here](https://github.com/sathya-pramodh/linux-mcsr/blob/main/LICENSE).
+The documentation was all written under GNU GPLv3. You can check the license [here](https://github.com/its-saanvi/linux-mcsr/blob/main/LICENSE).

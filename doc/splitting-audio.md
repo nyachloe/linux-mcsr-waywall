@@ -1,6 +1,6 @@
 # Splitting audio
 
-In this document we will be setting up Virtual Audio Inputs and splitting audio outputs in OBS. Remember! This method is highly untested and it works very well on my PC at the moment. But if you have any issues, post it [here](https://github.com/sathya-pramodh/linux-mcsr/issues).
+In this document we will be setting up Virtual Audio Inputs and splitting audio outputs in OBS. Remember! This method is highly untested and it works very well on my PC at the moment. But if you have any issues, post it [here](https://github.com/its-saanvi/linux-mcsr/issues).
 
 # qpwgraph
 
@@ -94,9 +94,9 @@ Similarly, route any other audio that you want into your virtual devices, i.e. y
 
 Now hit `Ctrl + S` to save changes in qpwgraph.
 
-If you have any issues regarding Spotify desktop app connections flickering from one virtual device to the other, you may post an issue [here](https://github.com/sathya-pramodh/linux-mcsr/issues).
+If you have any issues regarding Spotify desktop app connections flickering from one virtual device to the other, you may post an issue [here](https://github.com/its-saanvi/linux-mcsr/issues).
 
 # All done!
 
 - We are done with setting up audio splitting on Linux.
-- Again, this is very dependent on your hardware and setup and this is highly untested. If you get any issues while setting this up, post an issue [here](https://github.com/sathya-pramodh/linux-mcsr/issues) or even better, join the [resetti Discord server](https://discord.gg/g9b99fxW) and we'll try and help you.
+- Again, this is very dependent on your hardware and setup and this is highly untested. If you get any issues while setting this up, post an issue [here](https://github.com/its-saanvi/linux-mcsr/issues) or even better, join the [resetti Discord server](https://discord.gg/g9b99fxW) and we'll try and help you.
