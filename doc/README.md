@@ -6,7 +6,7 @@
 # Getting Started
 
 - The instructions start from the very basics and explain each step verbosely. Feel free to skip some steps if you know what you are doing.
-- You can get started right [here](index.html).
+- You can get started right [here](introduction.md)).
 
 # License
 
