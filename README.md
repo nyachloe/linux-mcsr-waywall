@@ -1,9 +1,9 @@
 # Linux MCSR
-- A documentation repository to help setting up Linux for MCSR.
+- A documentation repository to help setting up Linux (Wayland) for MCSR.
 
 # Getting Started
 - The instructions start from the very basics and explain each step verbosely. Feel free to skip some steps if you know what you are doing.
-- You can get started right [here](https://its-saanvi.github.io/linux-mcsr).
+- You can get started right [here](https://nyachloe.github.io/linux-mcsr-waywall/).
 
 # Thanks
 - [Boyenn](https://twitch.tv/lazy_boyenn) for giving me the idea to make this guide.
