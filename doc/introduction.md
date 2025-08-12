@@ -7,21 +7,14 @@ The instructions given below will be the pre-install setup. By the end of it, yo
 - Linux, being a **free and open source operating system**, comes in several different flavours a.k.a distributions a.k.a distros.
 - Some of the popular distributions are **Ubuntu**, **Fedora**, **Arch Linux(btw)**, etc.
 - For MCSR, we recommend a distribution based on **RHEL** called **Fedora**. For waywall, we recommend using the **KDE Plasma** variation of **Fedora**.
-- Make sure to go [here](https://fedoraproject.org/kde/download) and click the ISO file under **For Intel and AMD x86_64 systems**. This is what we will be using to flash the USB.
+- Make sure to go **[here](https://fedoraproject.org/kde/download)** and click the ISO file under **For Intel and AMD x86_64 systems**. This is what we will be using to flash the USB.
 - You can learn more about **Linux Distributions** [here](https://en.wikipedia.org/wiki/Linux_distribution).
 
 # Flashing KDE Fedora on Windows
 
-- After downloading the distribution ISO from the official Fedora Project website, pick up a USB stick of at least 5GB space or above.
+- After downloading the distribution ISO from the official Fedora Project website, pick up a USB stick of at least 4GB space or above.
 - **NOTE: The USB stick will be formatted during the install process and all data on it will be erased. This can be worked around by using [Ventoy](https://www.ventoy.net/en/download.html) Instead.**
-- To install the ISO into the USB stick, use **Rufus** from [here](https://rufus.ie/en/). Click on the Standard Windows x64 exe to download it.
-- Plug in the USB stick to your PC and open Rufus.
-- Under **Select Drive**, select the USB device name. It should be auto-selected for you, just make sure its the right USB.
-- Next to **Boot Selection**, locate to wherever you downloaded the Fedora KDE ISO from before and select it.
-- Most devices use the **GPT** Partition scheme.
- If you are not sure, run `diskpart` then `list disk` in a command prompt. The * Character will appear under GPT when in use.
-- There is no need to change other settings. Click START, OK, then make sure you are using the right USB drive.
-- Congratulations! You just created a bootable Fedora USB!
+- To install the ISO into the USB stick, follow the guide for **Fedora Media Writer** listed on the [aforementioned website](https://fedoraproject.org/kde/download)
 
 # Moving Ahead
 
