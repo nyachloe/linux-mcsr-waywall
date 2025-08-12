@@ -1,7 +1,7 @@
 # Linux MCSR
 
 - A documentation repository to help setting up Linux for MCSR.
-- This is a fork from saanvi's ressetti guide. Her original documentation can be found [here](https://its-saanvi.github.io/linux-mcsr/) 
+- This is a fork from Saanvi's resetti / x11 guide. Her original documentation can be found [here](https://its-saanvi.github.io/linux-mcsr/) 
 
 # Getting Started
 
