@@ -8,7 +8,7 @@ It's a part of every system (irrespective of Operating System) that helps you co
 
 It is a very powerful tool and most of the time, GUI applications have these commands running in the back when you click buttons to perform actions.
 
-You can open up a terminal on Fedora by hitting the keybind `Ctrl+Shift+T`.
+You can open up a terminal on KDE by searching "Konsole" in the bottom left menu.
 
 # Directories
 
@@ -117,7 +117,7 @@ rm text.txt
 
 # Super User Privileges
 
-- Super user privileges are admin privileges or elevated privileges given to a user in any UNIX system.
+- Super user privileges are admin privileges or elevated privileges given to a user in any UNIX system. This should have been enabled during the [installation process](https://nyachloe.github.io/linux-mcsr-waywall/installation.html).
 - To execute commands as a super user, we use the `su` command. `su` stands for switch user.
 - Try executing
 
