@@ -6,5 +6,6 @@
 sudo dnf install obs-studio
 ```
 - This should download and install OBS on your system.
+- **DO NOT** download it with software manager. This uses flatpak which is generally less preferred.
 - After downloading and installing it, you can open it and set it up as per usual.
 - If you are using classic wall (without SeedQueue) you might want to look at [these](https://github.com/tesselslate/resetti/blob/legacy-wall/doc/obs.md) docs to setup OBS to work with resetti.
