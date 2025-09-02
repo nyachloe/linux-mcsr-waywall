@@ -1,3 +1,6 @@
+# **I am ditching this project and will add a youtube video URL for a video tutorial instead of this text tutorial when I am finished**
+
+
 # Linux MCSR
 
 - A documentation repository to help setting up Linux for MCSR.
